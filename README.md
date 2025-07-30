@@ -132,7 +132,7 @@ If I’m not coding, I’m probably automating tests or leveling up my problem-s
 <h2 align="center" style="color:#a259f7;">📊 Github Stats</h2>
 
 <p align="center">
-  <img width="90%" src="https://streak-stats.demolab.com?user=shahabas07&theme=dark&hide_border=true&border_radius=5&card_width=800" alt="Streak Stats">
+  <img width="90%" src="[https://streak-stats.demolab.com?user=shahabas07&theme=dark&hide_border=true&border_radius=5&card_width=800](https://streak-stats.demolab.com/?user=shahabas07&hide_border=true&border_radius=5&card_width=800&background=000000&ring=a259f7&fire=bc6ff1&currStreakLabel=a259f7&currStreakNum=ffffff&sideNums=ffffff&sideLabels=a259f7&dates=999999&text=ffffff)" alt="Streak Stats">
 </p>
 
 <p align="center">
